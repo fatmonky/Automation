@@ -7,6 +7,7 @@ This script looks for all files starting with "Screenshot" in the desktop, and m
 If the Screenshots folder doesn't exist, it creates the folder in Desktop. 
 
 **Requirements**
+
 This requires Python 3.x to be installed in your system. In the command-line, type _python3 --version_ to see the Python version you have on your command line. 
 The script requires you to type in the full absolute path of your Desktop directory e.g. /Users/pjteh/Desktop. Go to your Desktop, and type _pwd_ to see your Desktop directory's full path. 
 
